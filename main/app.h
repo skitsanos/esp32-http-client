@@ -1,0 +1,7 @@
+#include <freertos/event_groups.h>
+
+EventGroupHandle_t xCoreEventGroup;
+EventGroupHandle_t xWifiEventGroup;
+EventGroupHandle_t xScreenEventGroup;
+EventGroupHandle_t xEspNowEventGroup;
+EventGroupHandle_t xSensorsEventGroup;

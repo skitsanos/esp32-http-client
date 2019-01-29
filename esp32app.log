@@ -1,0 +1,6 @@
+[32minfo[39m espidf-app-builder 1.0.0
+[32minfo[39m Creating folder structure...
+[32minfo[39m ./main/component.mk added
+[32minfo[39m ./CMakeLists.txt added
+[32minfo[39m ./Makefile added
+[32minfo[39m ./app.c added

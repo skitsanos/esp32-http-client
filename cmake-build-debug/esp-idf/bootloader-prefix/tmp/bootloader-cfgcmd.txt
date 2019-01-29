@@ -1,1 +1,0 @@
-cmd='/Applications/CMake.app/Contents/bin/cmake;-DSDKCONFIG=/Users/skitsanos/esp/projects/esp32-esp-http-client/sdkconfig;-DIDF_PATH=/Users/skitsanos/esp/esp-idf;-DSECURE_BOOT_SIGNING_KEY=/Users/skitsanos/esp/projects/esp32-esp-http-client;-GCodeBlocks - Unix Makefiles;<SOURCE_DIR><SOURCE_SUBDIR>'
